@@ -1,0 +1,28 @@
+{
+  "name": "travelsphere-travel-and-tours",
+  "version": "1.0.0",
+  "description": "TravelSphere is a tour and travel agency website on which you can plan your tours and explore new destinations",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "loader-utils": "3.2.1",
+    "mdb-react-ui-kit": "5.1.0",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "react-elastic-carousel": "0.11.5",
+    "react-router-dom": "6.9.0",
+    "react-scripts": "5.0.1",
+    "styled-components": "5.3.9"
+  },
+  "devDependencies": {
+    "@babel/runtime": "7.13.8",
+    "typescript": "4.1.3"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [">0.2%", "not dead", "not ie <= 11", "not op_mini all"]
+}

@@ -1,0 +1,19 @@
+/* @import url("https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap"); */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body::-webkit-scrollbar {
+  width: 0.5rem;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: black;
+  width: 0.1rem;
+  border-radius: 1rem;
+}
+@media screen and (max-width: 885px) {
+  body::-webkit-scrollbar {
+    width: 0.2rem;
+  }
+}
