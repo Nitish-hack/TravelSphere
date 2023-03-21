@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.55b2312e.css",
+    "main.js": "/static/js/main.f5a5b2b0.js",
+    "static/media/img1_azore.jpg": "/static/media/img1_azore.ca8fed3d2870283589b5.jpg",
+    "static/media/img2_azore.jpg": "/static/media/img2_azore.8efc80b5fdac732d5541.jpg",
+    "static/media/img2_taalvolcano.jpg": "/static/media/img2_taalvolcano.f0507d58f472df6b9e07.jpg",
+    "static/media/services.jpg": "/static/media/services.8d2fd518900e44a80caf.jpg",
+    "static/media/img1_taalvolcano.jpg": "/static/media/img1_taalvolcano.cf3d98d87dc773299574.jpg",
+    "static/media/Travel Story.png": "/static/media/Travel Story.32eb0b9aac794463859a.png",
+    "index.html": "/index.html",
+    "main.55b2312e.css.map": "/static/css/main.55b2312e.css.map",
+    "main.f5a5b2b0.js.map": "/static/js/main.f5a5b2b0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.55b2312e.css",
+    "static/js/main.f5a5b2b0.js"
+  ]
+}
