@@ -1,5 +1,5 @@
 {
-  "home":"http://Nitish-hack.github.io/TravelSphere",
+
   "name": "travelsphere-travel-and-tours",
   "version": "1.0.0",
   "description": "TravelSphere is a tour and travel agency website on which you can plan your tours and explore new destinations",
@@ -22,8 +22,6 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
